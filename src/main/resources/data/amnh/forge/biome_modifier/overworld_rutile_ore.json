@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "features": "amnh:overworld_rutile_ore",
+  "biomes": [
+    "minecraft:river",
+    "minecraft:beach"
+  ],
+  "step" : "underground_ores"
+}

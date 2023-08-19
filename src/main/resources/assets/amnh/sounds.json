@@ -1,0 +1,27 @@
+{
+  "titanium_break": {
+    "subtitle": "sounds.amnh.titanium_break",
+    "sounds": [
+      "amnh:titanium_break"
+    ]
+  },
+  "titanium_walk": {
+    "subtitle": "sounds.amnh.titanium_walk",
+    "sounds": [
+      "amnh:titanium_walk"
+    ]
+  },
+  "titanium_place": {
+    "subtitle": "sounds.amnh.titanium_place",
+    "sounds": [
+      "amnh:titanium_place"
+    ]
+  },
+  "titanium_hit": {
+    "subtitle": "sounds.amnh.titanium_hit",
+    "sounds": [
+      "amnh:titanium_hit"
+    ]
+  }
+}
+
